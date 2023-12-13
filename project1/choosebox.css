@@ -1,0 +1,29 @@
+body{
+    background-image: url("login.jpg");
+  }
+  .whitediv{
+    height: 300px;
+    width: 500px;
+    background-color: transparent;
+    margin-left: 500px;
+    margin-top: 150px;
+    box-shadow:0 0 20px 2px rgb(122, 235, 190);
+    }
+    h1{
+    font-size: 50px;
+    font-weight: 600;
+    margin-left: 100px;
+    color: white;
+    }
+    .textbox{
+        height: 25px;
+        font-size: large;
+        margin-left:20px;
+       }
+       .button{
+        font-size: 20px;
+        font-weight:200;
+        margin-left: 70px;
+        width: 30%;
+        background-color: rgb(254, 74, 54);
+      }

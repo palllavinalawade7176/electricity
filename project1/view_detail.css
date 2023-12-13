@@ -1,0 +1,44 @@
+.whitediv{
+    height:600px;
+    width:550px;
+    margin-left: 400px;
+    margin-top:20px;
+    background-color: rgb(114, 209, 228);
+    box-shadow:0 0 10px 5px #e0a165;
+   }
+.leftdiv{
+ height:400px;
+ width:50%;
+ float: left;
+ line-height: 55px;
+}
+.lab{
+font-size:40px;
+font-weight: bold;
+margin-left: 110px;
+}
+.lab1 {
+font-size: 20px;
+margin-left: 70px;
+font-weight: 400px;
+}
+.rightdiv{
+    height:400px;
+    width:50%;
+    margin-left: 50%;
+    line-height: 55px;
+    font-size: 20px;
+   }
+   .textbox{
+    font-size: 20px;
+    font-weight: 400px;
+    }
+.button{
+    font-size: 20px;
+    margin-left: 225px;
+    background-color:rgb(219, 121, 121);
+    color: white;
+    border-radius: 20px;
+    
+    width: 100px;
+    }

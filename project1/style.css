@@ -1,0 +1,26 @@
+body{
+  background-image: url("adminhome.jpg");
+  background-repeat: no-repeat;
+  background-size:100%;
+  background-image: cover;
+  }
+  .start {
+    background-color: black;
+    overflow: hidden;
+  }
+  .start a{
+    float: left;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+  }
+  .start a:hover {
+    background-color: #9a9595;
+    color: black;
+  }
+  .start a.active {
+    background-color: #159667;
+    color:white;
+  }

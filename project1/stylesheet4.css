@@ -1,0 +1,30 @@
+body{
+   
+    background-image: url(login.jpg);
+    }
+.method{
+    width: 300px;
+    box-shadow: 0 0 20px 5px #e0a165;
+    padding: 20px;
+    margin:8% auto 0;
+    text-align:center;
+    border: inset;
+    line-height: 25px;
+    background-color: transparent;
+}
+.method h1{
+    color: white;
+    margin-bottom: 50px;
+}
+.button{
+    font-size: 20px;
+    font-weight: 200px;
+    background-color: rgb(141, 77, 77);
+    color: white;
+}
+label{
+    font-size: 20px;
+    font-weight: 400px;
+    color: white;
+}
+

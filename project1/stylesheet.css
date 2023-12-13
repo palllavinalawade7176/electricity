@@ -1,0 +1,39 @@
+body{
+    background-image: url("login.jpg");
+  }
+  .whitediv{
+    height: 400px;
+    width: 500px;
+    background-color: transparent;
+    margin-left: 500px;
+    margin-top: 150px;
+    line-height: 30px;
+    box-shadow:0 0 20px 2px rgb(159, 216, 184);
+    }
+    .l1{
+      font-size: 40px;
+      font-weight: 600;
+      margin-left: 200px;
+      color: white;
+    }
+  .lab{
+      font-size:25px;
+      font-weight: 400;
+      margin-left: 90px;
+      color: white;
+   }
+   .textbox{
+    height: 25px;
+    font-size: large;
+    margin-left:20px;
+   }
+   .button{
+    font-size: 20px;
+    font-weight:200;
+    margin-left: 70px;
+    width: 30%;
+    background-color: rgb(182, 127, 137);
+  }
+  .select{
+    font-size:large;
+  }

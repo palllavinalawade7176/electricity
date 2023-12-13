@@ -1,0 +1,23 @@
+table
+{
+    height: 500px;
+    width: 1000px;
+    background-color: rgba(15, 20, 3, 0.313);
+    margin-left: 200px;
+    margin-top: 50px;;
+    font-size: 20px;;
+}
+th
+{
+    height: 20px;
+    width: 200px;
+    background-color: aqua;
+}
+td{
+    height: 50px;
+    width: 100px;
+    background-color:white;
+    margin-top: 50px;;
+    font-size: 20px;
+    text-align: center;
+}
